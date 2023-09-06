@@ -1,1 +1,0 @@
-Krants is truley a game!
