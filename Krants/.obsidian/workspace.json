@@ -11,11 +11,9 @@
             "id": "7bcdb21363df6aef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "🗺️Maps.md",
-                "mode": "source",
-                "source": false
+                "file": "Quartz/docs/images/Krants Logo.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️Maps.md",
+                "file": "Quartz/docs/images/Krants Logo.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️Maps.md",
+                "file": "Quartz/docs/images/Krants Logo.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️Maps.md"
+                "file": "Quartz/docs/images/Krants Logo.png"
               }
             }
           },
@@ -156,40 +154,51 @@
   },
   "active": "073e0db1f1823c9f",
   "lastOpenFiles": [
-    "Krants Logo.png",
-    "🗺️Maps.md",
-    "📰Resources.md",
-    "📒Technical Notes.md",
-    "👀Overview.md",
-    "➕Features.md",
-    "♻️Gameplay Loop.md",
-    "Krants-Pages-main/🗺️Maps.md",
-    "Krants-Pages-main/📰Resources.md",
-    "Krants-Pages-main/📒Technical Notes.md",
-    "Krants-Pages-main/👀Overview.md",
+    "Quartz/docs/🗺️Maps.md",
+    "Quartz/quartz/plugins/transformers/toc.ts",
+    "Quartz/quartz/plugins/transformers/syntax.ts",
+    "Quartz/quartz/plugins/transformers/oxhugofm.ts",
+    "Quartz/quartz/plugins/transformers/ofm.ts",
+    "Quartz/quartz/plugins/transformers/links.ts",
+    "Quartz/quartz/plugins/transformers/lastmod.ts",
+    "Quartz/quartz/plugins/transformers/latex.ts",
+    "Quartz/quartz/plugins/transformers/index.ts",
+    "Quartz/quartz/plugins/transformers/gfm.ts",
+    "Quartz/quartz/plugins/transformers/description.ts",
+    "Quartz/quartz/static/og-image.png",
+    "Quartz/quartz/static/icon.png",
+    "Quartz/docs/tags/component.md",
+    "Quartz/docs/images/quartz transform pipeline.png",
+    "Quartz/docs/images/quartz layout.png",
+    "Quartz/docs/images/dns records.png",
+    "Quartz/docs/features/wikilinks.md",
+    "Quartz/docs/features/upcoming features.md",
+    "Quartz/docs/features/table of contents.md",
+    "Quartz/docs/features/syntax highlighting.md",
+    "Quartz/docs/features/SPA Routing.md",
+    "Quartz/docs/features/RSS Feed.md",
+    "Quartz/docs/features/recent notes.md",
+    "Quartz/docs/features/popover previews.md",
+    "Quartz/docs/features/private pages.md",
+    "Quartz/docs/features/OxHugo compatibility.md",
+    "Quartz/docs/features/Obsidian compatibility.md",
+    "Quartz/docs/features/Mermaid diagrams.md",
+    "Quartz/docs/features/Latex.md",
+    "Quartz/docs/features/index.md",
+    "Quartz/docs/features/graph view.md",
+    "Quartz/docs/features/full-text search.md",
+    "Quartz/docs/features/folder and tag listings.md",
+    "Quartz/docs/features/darkmode.md",
+    "Quartz/docs/features/callouts.md",
+    "Quartz/docs/features/backlinks.md",
+    "Quartz/docs/advanced/paths.md",
+    "Quartz/docs/advanced/making plugins.md",
+    "Quartz/docs/advanced/creating components.md",
+    "Quartz/docs/advanced/architecture.md",
+    "Quartz/docs/images/Krants Logo.png",
     "Krants-Pages-main/Krants Logo.png",
-    "Krants-Pages-main/➕Features.md",
-    "Krants-Pages-main/♻️Gameplay Loop.md",
-    "Krants-Pages-main/docs/Topic 1/Note 2.md",
-    "Krants-Pages-main/docs/Topic 1/Note 1.md",
-    "Krants-Pages-main/docs/javascripts/mathjax.js",
-    "Krants-Pages-main/docs/Features/Text Formatting.md",
-    "Krants-Pages-main/docs/Features/LaTeX Math Support.md",
-    "Krants-Pages-main/docs/Features/Mermaid Diagrams.md",
-    "Krants-Pages-main/docs/Topic 1",
-    "Krants-Pages-main/docs/javascripts",
-    "Krants-Pages-main/docs/index.md",
-    "Krants-Pages-main/docs/Features",
-    "Krants-Pages-main/docs",
-    "Krants-Pages-main/README.md",
-    "Krants-Pages-main/mkdocs.yml",
     "Krants-Pages-main/2021-11-22-22-54-02.png",
-    "Krants-Pages-main/LICENSE",
     "Krants-Pages-main/2021-11-22-22-52-49.png",
-    "Krants-Pages-main/2021-11-22-22-49-26.png",
-    "Krants-Pages-main",
-    "Krants-Pages-main/javascripts/mathjax.js",
-    "Krants-Pages-main/javascripts",
-    "Note 1.md"
+    "Krants-Pages-main/2021-11-22-22-49-26.png"
   ]
 }
