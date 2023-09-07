@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krants-Pages-main/docs/🗺️Maps.md",
+                "file": "🗺️Maps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krants-Pages-main/docs/🗺️Maps.md",
+                "file": "🗺️Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krants-Pages-main/docs/🗺️Maps.md",
+                "file": "🗺️Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krants-Pages-main/docs/🗺️Maps.md"
+                "file": "🗺️Maps.md"
               }
             }
           },
@@ -156,13 +156,13 @@
   },
   "active": "073e0db1f1823c9f",
   "lastOpenFiles": [
-    "Krants-Pages-main/docs/🗺️Maps.md",
-    "Krants-Pages-main/docs/📰Resources.md",
-    "Krants-Pages-main/docs/📒Technical Notes.md",
-    "Krants-Pages-main/docs/👀Overview.md",
     "Krants Logo.png",
-    "Krants-Pages-main/docs/➕Features.md",
-    "Krants-Pages-main/docs/♻️Gameplay Loop.md",
+    "🗺️Maps.md",
+    "📰Resources.md",
+    "📒Technical Notes.md",
+    "👀Overview.md",
+    "➕Features.md",
+    "♻️Gameplay Loop.md",
     "Krants-Pages-main/🗺️Maps.md",
     "Krants-Pages-main/📰Resources.md",
     "Krants-Pages-main/📒Technical Notes.md",
