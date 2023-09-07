@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krants-Pages-main/docs/➕Features.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5f4b3915ef35be7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Krants-Pages-main/docs/🗺️Maps.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a50a6e52fce42218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krants-Pages-main/docs/📰Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6503e4d7326dd5ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krants-Pages-main/docs/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,18 +39,6 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "9a73d3cd71163e54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Krants-Pages-main/docs/♻️Gameplay Loop.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Krants-Pages-main/docs/index.md",
+                "file": "Krants-Pages-main/docs/🗺️Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Krants-Pages-main/docs/index.md",
+                "file": "Krants-Pages-main/docs/🗺️Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Krants-Pages-main/docs/index.md"
+                "file": "Krants-Pages-main/docs/🗺️Maps.md"
               }
             }
           },
@@ -203,35 +154,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6503e4d7326dd5ca",
+  "active": "7bcdb21363df6aef",
   "lastOpenFiles": [
-    "Krants-Pages-main/javascripts/mathjax.js",
-    "Krants-Pages-main/javascripts",
-    "Krants-Pages-main/README.md",
-    "Krants-Pages-main/docs/index.md",
-    "Note 1.md",
-    "Krants-Pages-main/docs/🗺️Maps.md",
-    "Krants-Pages-main/docs/Topic 1/Note 1.md",
+    "Krants-Pages-main/docs/📒Technical Notes.md",
+    "Krants-Pages-main/docs/javascripts/mathjax.js",
     "Krants-Pages-main/docs/Topic 1/Note 2.md",
+    "Krants-Pages-main/docs/Topic 1/Note 1.md",
     "Krants-Pages-main/docs/Features/Text Formatting.md",
     "Krants-Pages-main/docs/Features/Mermaid Diagrams.md",
     "Krants-Pages-main/docs/Features/LaTeX Math Support.md",
-    "Krants-Pages-main/docs/♻️Gameplay Loop.md",
-    "Krants-Pages-main/docs/➕Features.md",
-    "Krants-Pages-main/docs/👀Overview.md",
-    "Krants-Pages-main/docs/javascripts/mathjax.js",
     "Krants-Pages-main/docs/javascripts",
     "Krants-Pages-main/docs/Topic 1",
+    "Krants-Pages-main/docs/index.md",
     "Krants-Pages-main/docs/Features",
-    "Krants-Pages-main/mkdocs.yml",
-    "Krants-Pages-main/LICENSE",
     "Krants-Pages-main/docs",
+    "Krants-Pages-main/README.md",
+    "Krants-Pages-main/LICENSE",
+    "Krants-Pages-main/mkdocs.yml",
     "Krants-Pages-main/2021-11-22-22-54-02.png",
     "Krants-Pages-main/2021-11-22-22-52-49.png",
     "Krants-Pages-main/2021-11-22-22-49-26.png",
     "Krants-Pages-main",
+    "Krants-Pages-main/docs/🗺️Maps.md",
+    "Krants-Pages-main/➕Features.md",
+    "Krants-Pages-main/🗺️Maps.md",
+    "Krants-Pages-main/docs/➕Features.md",
+    "Krants-Pages-main/docs/♻️Gameplay Loop.md",
     "Krants-Pages-main/docs/📰Resources.md",
-    "Krants-Pages-main/docs/📒Technical Notes.md",
-    "Krants Logo.png"
+    "Krants-Pages-main/docs/👀Overview.md",
+    "Krants-Pages-main/📰Resources.md",
+    "Krants Logo.png",
+    "Krants-Pages-main/javascripts/mathjax.js",
+    "Krants-Pages-main/javascripts",
+    "Note 1.md",
+    "Krants-Pages-main/♻️Gameplay Loop.md",
+    "Krants-Pages-main/👀Overview.md",
+    "Krants-Pages-main/📒Technical Notes.md"
   ]
 }
