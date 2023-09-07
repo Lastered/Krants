@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9c2d15ab4bf8daf5",
+        "id": "872fd82bbd985531",
         "type": "tabs",
         "children": [
           {
-            "id": "7bcdb21363df6aef",
+            "id": "59fb22c4a4fa7306",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Quartz/docs/images/Krants Logo.png"
+                "file": "Garden/_pages/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quartz/docs/images/Krants Logo.png",
+                "file": "Garden/_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quartz/docs/images/Krants Logo.png",
+                "file": "Garden/_pages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quartz/docs/images/Krants Logo.png"
+                "file": "Garden/_pages/index.md"
               }
             }
           },
@@ -152,25 +154,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "073e0db1f1823c9f",
+  "active": "59fb22c4a4fa7306",
   "lastOpenFiles": [
-    "Quartz/docs/🗺️Maps.md",
-    "Quartz/quartz/plugins/transformers/toc.ts",
-    "Quartz/quartz/plugins/transformers/syntax.ts",
-    "Quartz/quartz/plugins/transformers/oxhugofm.ts",
-    "Quartz/quartz/plugins/transformers/ofm.ts",
-    "Quartz/quartz/plugins/transformers/links.ts",
-    "Quartz/quartz/plugins/transformers/lastmod.ts",
-    "Quartz/quartz/plugins/transformers/latex.ts",
-    "Quartz/quartz/plugins/transformers/index.ts",
-    "Quartz/quartz/plugins/transformers/gfm.ts",
-    "Quartz/quartz/plugins/transformers/description.ts",
+    "Garden/_pages/about.md",
+    "Garden/_pages/index.md",
+    "Garden/_pages/➕Features.md",
+    "Garden/assets/image.jpg",
+    "Garden/assets/Krants Logo.png",
+    "Garden/assets/jazzyfrenchy.mp3",
+    "Garden/_pages/♻️Gameplay Loop.md",
+    "Garden/_notes/animals/tigers.md",
+    "Garden/_notes/animals/cats.md",
+    "Garden/_sass/_style.scss",
+    "Garden/_sass/_normalize.scss",
+    "Garden/_sass/_code.scss",
+    "Garden/_plugins/markdown-highlighter.rb",
+    "Garden/_plugins/open_external_links_in_new_tab.rb",
+    "Garden/_plugins/last_modified_at_generator.rb",
+    "Garden/_plugins/empty_front_matter_note_injector.rb",
+    "Garden/_plugins/embed_tweets.rb",
+    "Garden/_plugins/bidirectional_links_generator.rb",
+    "Garden/_notes/안녕하세요.md",
+    "Garden/_notes/your-first-note.md",
+    "Garden/_notes/move your body every day.md",
+    "Garden/_notes/consistency.md",
+    "Garden/_notes/accents.md",
+    "Garden/README.md",
+    "Quartz/docs/images/dns records.png",
+    "Garden/_pages/🗺️Maps.md",
     "Quartz/quartz/static/og-image.png",
     "Quartz/quartz/static/icon.png",
     "Quartz/docs/tags/component.md",
     "Quartz/docs/images/quartz transform pipeline.png",
     "Quartz/docs/images/quartz layout.png",
-    "Quartz/docs/images/dns records.png",
     "Quartz/docs/features/wikilinks.md",
     "Quartz/docs/features/upcoming features.md",
     "Quartz/docs/features/table of contents.md",
@@ -183,22 +199,8 @@
     "Quartz/docs/features/OxHugo compatibility.md",
     "Quartz/docs/features/Obsidian compatibility.md",
     "Quartz/docs/features/Mermaid diagrams.md",
-    "Quartz/docs/features/Latex.md",
-    "Quartz/docs/features/index.md",
-    "Quartz/docs/features/graph view.md",
-    "Quartz/docs/features/full-text search.md",
-    "Quartz/docs/features/folder and tag listings.md",
-    "Quartz/docs/features/darkmode.md",
-    "Quartz/docs/features/callouts.md",
-    "Quartz/docs/features/backlinks.md",
-    "Quartz/docs/advanced/paths.md",
-    "Quartz/docs/advanced/making plugins.md",
-    "Quartz/docs/advanced/creating components.md",
-    "Quartz/docs/advanced/architecture.md",
-    "Quartz/docs/images/Krants Logo.png",
     "Krants-Pages-main/Krants Logo.png",
     "Krants-Pages-main/2021-11-22-22-54-02.png",
-    "Krants-Pages-main/2021-11-22-22-52-49.png",
-    "Krants-Pages-main/2021-11-22-22-49-26.png"
+    "Krants-Pages-main/2021-11-22-22-52-49.png"
   ]
 }
